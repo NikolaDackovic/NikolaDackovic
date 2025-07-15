@@ -1,3 +1,9 @@
+
+<img width="1024" height="1536" alt="e991f631-dfb2-44f5-869f-07326c517359" src="https://github.com/user-attachments/assets/e1f3813a-a63a-4093-a540-7c5d02b179c8" />
+
+
+
+
 👋 Hi, I’m @NikolaDackovic
 👀 I’m interested in becoming a Frontend Developer, web development, and learning new technologies like JavaScript, HTML, CSS, and React.
 🌱 I’m currently learning frontend development, mastering JavaScript, and diving deeper into web design. Also working on various projects to improve my skills in creating dynamic websites!
