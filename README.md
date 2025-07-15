@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/e1f3813a-a63a-4093-a540-7c5d02b179c8" height="220"/>
+<img width="6912" height="3456" alt="Black and Beige Simple Coming Soon Banner" src="https://github.com/user-attachments/assets/3ba360b9-9ce9-4535-bfc1-8d51a9d206cf" />
+
 
 ---
 
