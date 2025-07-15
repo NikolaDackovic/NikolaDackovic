@@ -4,29 +4,34 @@
 
 ---
 
-### 👋 Hi, I’m @NikolaDackovic
+👋 Hi, I’m @NikolaDackovic
+🎯 I’m on my journey to becoming a Frontend Developer, passionate about web development and constantly learning new technologies like JavaScript, HTML, CSS, and soon — React.
 
-🎯 I’m on my journey to becoming a **Frontend Developer**, passionate about web development and constantly learning new technologies like **JavaScript**, **HTML**, **CSS**, and soon – **React**.
+🌱 Currently learning:
 
-🌱 **Currently learning**:  
-- Mastering JavaScript (ES6+)
-- Diving into responsive web design
-- Working on real-world projects to improve skills
+Mastering JavaScript (ES6+)
 
-🤝 **Looking to collaborate** on:
-- Frontend apps
-- Landing pages and UI/UX projects
-- Beginner-friendly open-source repos
+Diving into responsive web design
 
-💻 **Tech Stack**:
-- HTML | CSS | JavaScript
-- Git & GitHub (version control and collab)
+Building real-world projects to sharpen my skills
 
-📫 **How to reach me**:  
+🤝 Looking to collaborate on:
+
+Frontend apps
+
+Landing pages and UI/UX projects
+
+Beginner-friendly open-source repositories
+
+💻 Tech Stack:
+HTML | CSS | JavaScript
+Git & GitHub (version control & collaboration)
+
+📫 How to reach me:
 📩 dackovicnikola1@gmail.com
 
-😄 **Pronouns**: He/Him  
-⚡ **Fun fact**: When I’m not coding, I’m usually behind the lens of my **Canon 80D 📸** or crafting custom **3D-printed gifts** (ever seen a Dolce Gusto capsule holder like mine? 😄)
+😄 Pronouns: He/Him
+⚡ Fun fact: I love capturing moments with my Canon 80D 📸, creating 3D prints, and constantly learning new technologies.
 
 ---
 
