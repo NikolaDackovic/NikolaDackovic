@@ -1,5 +1,6 @@
 
-![Uploading Black and Beige Simple Coming Soon Banner.png…]()
+<img width="6912" height="3456" alt="Black and Beige Simple Coming Soon Banner" src="https://github.com/user-attachments/assets/409ddb88-8b87-4df3-9131-2735e8cacf93" />
+
 
 ---
 
