@@ -11,6 +11,10 @@
 
 Mastering JavaScript (ES6+)
 
+Exploring React for building interactive UIs
+
+Working with APIs to fetch and manage data
+
 Diving into responsive web design
 
 Building real-world projects to sharpen my skills
@@ -24,11 +28,14 @@ Landing pages and UI/UX projects
 Beginner-friendly open-source repositories
 
 💻 Tech Stack:
-HTML | CSS | JavaScript
+HTML | CSS | JavaScript | React
 Git & GitHub (version control & collaboration)
+Basic knowledge of REST APIs
+Familiar with debugging tools like Chrome DevTools
 
 📫 How to reach me:
 📩 dackovicnikola1@gmail.com
+🔗 LinkedIn
 
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love capturing moments with my Canon 80D 📸, creating 3D prints, and constantly learning new technologies.
