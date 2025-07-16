@@ -6,6 +6,9 @@
 
 # 👋 Hi, I’m @NikolaDackovic
 
+![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolaDackovic&show_icons=true&theme=radical)
+
+
 🎯 I’m on my journey to becoming a **Frontend Developer**, passionate about web development and constantly learning new technologies like **JavaScript**, **HTML**, **CSS**, and soon — **React**.
 
 ---
