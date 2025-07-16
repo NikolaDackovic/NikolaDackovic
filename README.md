@@ -9,29 +9,29 @@
 
 🌱 Currently learning:
 
-Mastering JavaScript (ES6+)
+-Mastering JavaScript (ES6+)
 
-Exploring React for building interactive UIs
+-Exploring React for building interactive UIs
 
-Working with APIs to fetch and manage data
+-Working with APIs to fetch and manage data
 
-Diving into responsive web design
+-Diving into responsive web design
 
-Building real-world projects to sharpen my skills
+-Building real-world projects to sharpen my skills
 
 🤝 Looking to collaborate on:
 
-Frontend apps
+-Frontend apps
 
-Landing pages and UI/UX projects
+-Landing pages and UI/UX projects
 
-Beginner-friendly open-source repositories
+-Beginner-friendly open-source repositories
 
 💻 Tech Stack:
-HTML | CSS | JavaScript | React
-Git & GitHub (version control & collaboration)
-Basic knowledge of REST APIs
-Familiar with debugging tools like Chrome DevTools
+-HTML | CSS | JavaScript | React
+-Git & GitHub (version control & collaboration)
+-Basic knowledge of REST APIs
+-Familiar with debugging tools like Chrome DevTools
 
 📫 How to reach me:
 📩 dackovicnikola1@gmail.com
