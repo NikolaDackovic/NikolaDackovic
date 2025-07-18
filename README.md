@@ -44,7 +44,7 @@
 ---
 
 😄 **Pronouns:** He/Him  
-⚡ **Fun fact:** I love capturing moments with my Canon 80D 📸, creating 3D prints, and constantly learning new technologies.
+⚡ **Fun fact:** I love capturing moments with my Canon 80D 📸,  and constantly learning new technologies.
 
 ---
 
